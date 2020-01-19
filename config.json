@@ -1,0 +1,95 @@
+{
+	"general" : 
+	{
+		"editor" : 
+		{
+			"previewratio" : "free",
+			"recentfiles" : [],
+			"showgrid" : true,
+			"showonstartup" : true
+		},
+		"localfiles" : 
+		[
+			"http://193.112.173.69/gzdxjy.globalviewcco.com/portal",
+			"D:/xhc/wallpaper/paper/星空绕圆心转动动画特效/index.html",
+			"D:/xhc/wallpaper/paper/HTML5鼠标控制树镜动画特效/index.html",
+			"D:/xhc/wallpaper/paper/CSS3黑夜开灯关灯动画特效/index.html",
+			"D:/xhc/wallpaper/paper/火焰黑洞动画背景特效/index.html",
+			"D:/xhc/wallpaper/paper/Canvas火箭飞行动画特效/index.html",
+			"D:/xhc/wallpaper/paper/Canvas飞机飞行场景动画特效/index.html",
+			"D:/xhc/wallpaper/paper/JS2048小游戏代码/index.html",
+			"https://www.17sucai.com/pins/demo-show?id=7849",
+			"https://www.17sucai.com/preview/1/2014-04-25/%E6%B0%B4%E6%9E%9C%E5%BF%8D%E8%80%85%E7%BD%91%E9%A1%B5%E7%89%88(source)/index.html"
+		],
+		"user" : 
+		{
+			"adjustdwmcolor" : true,
+			"audioinputdevice" : "default",
+			"audioinputvolume" : 50,
+			"autostartscheduler" : false,
+			"bloom" : true,
+			"fps" : 15,
+			"graphicsapi" : "dxgi",
+			"hasshownwelcomedialog" : true,
+			"iconopacity" : 100,
+			"language" : "default",
+			"loglevel" : "error",
+			"logtofileenabled" : true,
+			"msaa" : "x2",
+			"playbackfocus" : "run",
+			"playbackfullscreen" : "pause",
+			"playbackmaximized" : "pause",
+			"preset" : "medium",
+			"reflection" : true,
+			"resolution" : "full",
+			"steamlanguage" : "en-us",
+			"videoloopmode" : "default",
+			"videoreadmode" : "fromdisk",
+			"windowupdaterate" : 1000
+		},
+		"wallpaperconfig" : 
+		{
+			"layout" : 0,
+			"selectedwallpapers" : 
+			[
+				{
+					"file" : "https://www.17sucai.com/pins/demo-show?id=7849",
+					"local" : true,
+					"monitor" : 0
+				}
+			]
+		},
+		"wallpaperconfigrecent" : 
+		[
+			{
+				"config" : 
+				{
+					"selectedwallpapers" : 
+					[
+						{
+							"file" : "http://193.112.173.69/gzdxjy.globalviewcco.com/portal",
+							"local" : true,
+							"monitor" : 0
+						}
+					]
+				},
+				"title" : "http://193.112.173.69/gzdxjy.globalviewcco.com/portal"
+			},
+			{
+				"config" : 
+				{
+					"selectedwallpapers" : 
+					[
+						{
+							"file" : "https://www.17sucai.com/pins/demo-show?id=7849",
+							"local" : true,
+							"monitor" : 0
+						}
+					]
+				},
+				"title" : "https://www.17sucai.com/pins/demo-show?id=7849"
+			}
+		]
+	},
+	"wallpaperproperties" : null
+}
